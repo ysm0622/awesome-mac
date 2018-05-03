@@ -315,6 +315,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, sandboxed & native way to run VM on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Virtual Box](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [VMWare Fusion](http://www.vmware.com/) - Powerful, commercial VM developed by VMware.
+* [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 
 #### Databases
 
